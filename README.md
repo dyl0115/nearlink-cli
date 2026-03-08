@@ -33,11 +33,11 @@ You can edit this file directly, or use the `add` / `remove` commands to manage 
   "hosts": [
     {
       "hostname": "my-desktop",
-      "username": "dyl01",
-      "host_mac_address": "3C-7C-3F-C3-66-C9",
-      "host_ip": "192.168.35.203",
+      "username": "your-username",
+      "host_mac_address": "XX-XX-XX-XX-XX-XX",
+      "host_ip": "192.168.x.x",
       "password": "your-password",
-      "default_path": "/home/dyl01"
+      "default_path": "/home/your-username"
     }
   ]
 }
